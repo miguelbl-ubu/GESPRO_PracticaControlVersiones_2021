@@ -1,2 +1,2 @@
-Grupo:
-  - Gonzalo Burgos de la Hera
+Aqui Gonzalo escribio cosas
+Guillermo estubo aki
