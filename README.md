@@ -1,2 +1,2 @@
-Miembros del equipo:
-  - Gonzalo Burgos de la Hera
+Aqui Gonzalo escribio cosas
+Guillermo estubo aki
