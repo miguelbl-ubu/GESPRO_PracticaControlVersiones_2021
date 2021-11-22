@@ -1,1 +1,2 @@
-Aqui Gonzalo escribio cosas
+Miembros del equipo:
+  - Gonzalo Burgos de la Hera
