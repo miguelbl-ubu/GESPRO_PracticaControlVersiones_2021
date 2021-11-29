@@ -1,2 +1,3 @@
-Aqui Gonzalo escribio cosas
-Guillermo estubo aki
+Grupo:
+  - Gonzalo Burgos de la Hera
+  - Me has borrado lo mio cabrón, de Guillermo
